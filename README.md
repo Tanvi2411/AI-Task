@@ -1,4 +1,4 @@
-# Brainlox Course Scraper API  
+# Overview  
 
 A Flask-based REST API that dynamically scrapes course data from [Brainlox](https://brainlox.com/courses/category/technical), processes it using TF-IDF vectorization, and provides a search functionality using cosine similarity.  
 
